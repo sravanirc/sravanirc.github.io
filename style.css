@@ -1,0 +1,60 @@
+
+header h1{
+  background-image: linear-gradient(to right ,white,#863567)
+
+}
+
+h1{
+  text-align:center;
+  padding: 0.5em;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color:black;
+}
+
+nav ul li{
+  list-style-type: none;
+ display: inline-block;
+ Padding-left:1em;
+}
+table {
+border:0.1em solid black;
+border-collapse: collapse;
+width: 95%;
+margin-left:2.5%;
+background-color:black;
+height: 90%;
+}
+
+table caption {
+  border:0.1em solid black;
+  font-size:1.5em;
+  font-weight:bold;
+  background-color:black;
+}
+table caption input{
+  text-align:right;
+}
+th, td{
+  border:0.1em solid black;
+  padding:0.5em;
+ text-align:center;
+}
+input{
+  width: 95%;
+  height: 2em;
+  font-size:2em;
+  text-align:center;
+}
+
+html body {
+
+    background: linear-gradient(#863567,white);
+    background-repeat: no-repeat;
+  background-position: center ;
+background-attachment: fixed;
+
+
+}
